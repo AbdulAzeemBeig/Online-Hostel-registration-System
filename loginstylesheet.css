@@ -1,0 +1,15 @@
+﻿body {
+    background-color: lightgoldenrodyellow;
+}
+.new {
+    background-color: whitesmoke;
+}
+table {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    border-collapse: collapse;
+    background-color:whitesmoke;
+}
+fieldset {
+    max-width: 200px;
+}
+

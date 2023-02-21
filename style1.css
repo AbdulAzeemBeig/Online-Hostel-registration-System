@@ -1,0 +1,28 @@
+﻿body {
+    background-color: lightblue;
+    background-image: src("mainimage.jpg");
+}
+.new{
+    background-color:white;
+}
+
+    hr {
+    border: 1px solid red;
+}
+.icon-bar {
+    width: 1100px; /* Set a specific width */
+    background-color: #555; /* Dark-grey background */
+   
+}
+    .icon-bar a:hover {
+        background-color: #000; /* Add a hover color */
+       
+    }
+
+    .icon-bar a {
+        display: block; /* Make the links appear below each other instead of side-by-side */
+        text-align: center; /* Center-align text */
+        padding: 2px; /* Add some padding */
+        font-size: 21px; /* Increased font-size */
+        
+    }
